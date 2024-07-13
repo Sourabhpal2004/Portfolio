@@ -1,4 +1,13 @@
 # React + Vite
+# Portfolio
+
+This is my portfolio project built with React and Vite.
+
+## Installation
+
+```sh
+npm install
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
